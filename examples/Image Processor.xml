@@ -1,0 +1,31 @@
+﻿<ImageProcessor>
+	<version>3.0</version>
+	<useopen>false</useopen>
+	<includesub>false</includesub>
+	<source>/tmp/in</source>
+	<open>false</open>
+	<saveinsame>false</saveinsame>
+	<dest>/tmp/out</dest>
+	<jpeg>true</jpeg>
+	<psd>false</psd>
+	<tiff>false</tiff>
+	<lzw>true</lzw>
+	<converticc>true</converticc>
+	<q>12</q>
+	<max>false</max>
+	<jpegresize>true</jpegresize>
+	<jpegw>2048</jpegw>
+	<jpegh>2048</jpegh>
+	<psdresize>false</psdresize>
+	<psdw>0</psdw>
+	<psdh>0</psdh>
+	<tiffresize>false</tiffresize>
+	<tiffw>0</tiffw>
+	<tiffh>0</tiffh>
+	<runaction>false</runaction>
+	<actionset></actionset>
+	<action></action>
+	<info></info>
+	<icc>true</icc>
+	<keepstructure>false</keepstructure>
+</ImageProcessor>
